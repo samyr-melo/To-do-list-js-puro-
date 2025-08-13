@@ -1,6 +1,4 @@
-Com base nas informações e nas imagens que você forneceu, aqui está um README completo e bem estruturado para o seu projeto. Ele utiliza emojis e um formato de fácil leitura.
 
------
 
 # ✅ To-Do List em JavaScript
 
